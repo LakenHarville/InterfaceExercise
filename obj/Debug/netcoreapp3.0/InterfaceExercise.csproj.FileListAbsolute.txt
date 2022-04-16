@@ -1,0 +1,13 @@
+F:\repos\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.0\InterfaceExercise.exe
+F:\repos\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.0\InterfaceExercise.deps.json
+F:\repos\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.0\InterfaceExercise.runtimeconfig.json
+F:\repos\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.0\InterfaceExercise.runtimeconfig.dev.json
+F:\repos\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.0\InterfaceExercise.dll
+F:\repos\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.0\InterfaceExercise.pdb
+F:\repos\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.0\InterfaceExercise.csproj.AssemblyReference.cache
+F:\repos\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.0\InterfaceExercise.AssemblyInfoInputs.cache
+F:\repos\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.0\InterfaceExercise.AssemblyInfo.cs
+F:\repos\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.0\InterfaceExercise.csproj.CoreCompileInputs.cache
+F:\repos\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.0\InterfaceExercise.dll
+F:\repos\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.0\InterfaceExercise.pdb
+F:\repos\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.0\InterfaceExercise.genruntimeconfig.cache
